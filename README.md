@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Javascript and Python**
 
-- 📫 How to reach me: **eneesakan23@hotmail.com**
+- 📫 How to reach me: **enesakan2014@gmal.com**
 
 - ⚡ Fun fact **ValarMorghulis**
 
