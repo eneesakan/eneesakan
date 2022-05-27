@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋🏻, I'm Enes</h1>
 <h3 align="left">I'm a Computer Engineer. I'm working on Web Development and Graphic Design.</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 
