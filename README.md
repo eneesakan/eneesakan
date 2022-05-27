@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋🏻, I'm Enes</h1>
 <h3 align="left">I'm a Computer Engineer. I'm working on Web Development and Graphic Design.</h3>
-<img aling="right" alt ="Coding" width="400" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e4758uyqnrcby7l85unxrqia2p0mj35hi0cyz3fz6sk&rid=giphy.gif&ct=g">
+<img alling="right" alt ="Coding" width="400" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e4758uyqnrcby7l85unxrqia2p0mj35hi0cyz3fz6sk&rid=giphy.gif&ct=g">
 <br>
 
 - 🔭 I'm currently working on **HTML and Css**
