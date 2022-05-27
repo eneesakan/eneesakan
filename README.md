@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋🏻, I'm Enes</h1>
 <h3 align="left">I'm a Computer Engineer. I'm working on Web Development and Graphic Design.</h3>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img aling="right" alt ="Coding" width="400" src="">
 <br>
 
 - 🔭 I'm currently working on **HTML and Css**
