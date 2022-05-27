@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋🏻, I'm Enes</h1>
 <h3 align="left">I'm a Computer Engineer. I'm working on Web Development and Graphic Design.</h3>
-<img alling="right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img aling="right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
 - 🔭 I'm currently working on **HTML and Css**
