@@ -55,10 +55,7 @@
 
 
 
-<h3 align="center">Türkiye'den tutkulu bir Ön Uç Geliştirici</h3>
+<h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy "><img src="https://github-profile-trophy.vercel.app/?username=eneesakan" alt="eneesakan" /></a> </p>
-
-<h3 align="left">Bağlan benimle:</h3>
-<p align="left">
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy ">
+    <img src="https://github-profile-trophy.vercel.app/?username=eneesakan" alt="eneesakan" /></a> </p>
