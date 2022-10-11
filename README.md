@@ -3,9 +3,11 @@
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
-- 🔭 I'm currently working on **HTML and Css**
+- 🔭 I'm currently actively working on **JavaScript**
 
-- 🌱 I'm currently learning **Javascript and Python**
+- 🌱 I develop responsive web projects with **CSS and JavaScript**
+
+- ❄️ I'm currently learning React  
 
 - 📫 How to reach me: **enesakan2014@gmail.com**
 
