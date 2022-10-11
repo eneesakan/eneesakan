@@ -7,7 +7,7 @@
 
 - 🌱 I develop responsive web projects with **CSS and JavaScript**
 
-- ❄️ I'm currently learning React  
+- ❄️ I'm currently learning **React**
 
 - 📫 How to reach me: **enesakan2014@gmail.com**
 
