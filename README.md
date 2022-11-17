@@ -62,13 +62,3 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> </p>
         
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy ">
-    <img src="https://github-profile-trophy.vercel.app/?username=eneesakan" alt="eneesakan" /></a> </p>
-    
-<h3 align="left">Benimle bağlantı kurun:</h3>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&locale=en&theme=radical" alt="eneesakan" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eneesakan&show_icons=true&locale=en&layout=compact&theme=radical" alt="eneesakan" /></p>
