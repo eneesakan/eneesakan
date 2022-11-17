@@ -13,10 +13,22 @@
 
 - ⚡ Sad but true **ValarMorghulis**
 
-<br>
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=emr4h&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eneesakan&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="eneesakan" width="37%">
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/eneesakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eneesakan" height="30" width="40" /></a>
