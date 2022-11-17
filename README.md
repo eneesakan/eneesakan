@@ -7,7 +7,7 @@
 
 - 🌱 I develop responsive web projects with **CSS and JavaScript**
 
-- 📝 Visit my personal website [enesakan.com](https://www.enesakan.com)
+- 🌐 Know about my experiences [enesakan.com](https://www.enesakan.com)
 
 - ❄️ I'm currently learning **React**
 
