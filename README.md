@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **enesakan2014@gmail.com**
 
-- ⚡ Fun fact **ValarMorghulis**
+- ⚡ Sad but true **ValarMorghulis**
 
 <br>
 <br>
