@@ -51,3 +51,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy ">
     <img src="https://github-profile-trophy.vercel.app/?username=eneesakan" alt="eneesakan" /></a> </p>
+    
+    
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats .vercel.app/api/top-langs?username=eneesakan&show_icons=true&locale=en&layout=compact" alt="eneesakan" /></p>
+
+<p> <img align="center" src="https:/ /github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&locale=en" alt="eneesakan" /></p>
