@@ -30,7 +30,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/eneesakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eneesakan" height="30" width="40" /></a>
