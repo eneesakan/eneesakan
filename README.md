@@ -32,7 +32,7 @@
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="55%">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eneesakan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eneesakan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&theme=chartreuse-dark&layout=compact)
 
