@@ -29,9 +29,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="52%" margin-t="100%">
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="52%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&theme=chartreuse-dark&layout=compact&width=40%)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&theme=chartreuse-dark&layout=compact&width=52%)
 
 </p>
 
