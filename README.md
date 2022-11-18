@@ -1,4 +1,4 @@
-<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=1&pause=10000&color=55A1F7&background=FFFFFF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&width=191&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Enes" alt="Typing SVG" /></a></h1>
+<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=1&pause=10000&color=55A1F7&background=FFFFFF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&width=191&height=35&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Enes" alt="Typing SVG" /></a></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=55A1F7&background=FFFFFF00&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&width=435&lines=Computer+Engineer;Front+End+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 
