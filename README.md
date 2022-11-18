@@ -29,9 +29,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="50%">
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="52%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&layout=compact" alt="eneesakan" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&layout=compact" alt="eneesakan" width="42%">
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
