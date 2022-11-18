@@ -34,7 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&layout=compact" alt="eneesakan" width="43%">
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="center">Find me on Social Media</h3>
 <p align="center">
