@@ -1,4 +1,4 @@
-<h1 align = "left">Hi 👋🏻, I'm Enes</h1>
+<h1 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10000&color=F70000&background=FFFFFF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&width=435&lines=Hi+👋,+I'am+ Enes" alt="Typing SVG" /></a></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10000&color=F70000&background=FFFFFF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&width=435&lines=Hi+👋,+I'am+ Enes" alt="Typing SVG" /></a>
 
