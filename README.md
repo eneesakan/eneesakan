@@ -72,3 +72,15 @@
 </p>
 
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 100%;"></a></p>
+
+
+
+
+
+
+
+## Spotify Live View
+[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
+
+
+
