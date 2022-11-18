@@ -27,7 +27,7 @@
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7&align=center&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p>
