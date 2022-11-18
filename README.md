@@ -38,9 +38,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-### Find me on Social Media
-<p align="center">
+<h3 align="left">Find me on Social Media</h3>
+<p align="left">
 <a target="_blank" href="https://www.instagram.com/eneesakan/"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="Instagram" border="0"></a>
 <a target="_blank" href="https://twitter.com/eneesakan"><img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"></a>
 <a target="_blank" href="https://www.linkedin.com/in/eneesakan/"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
@@ -75,4 +74,3 @@
 </p>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 100%;"></a></p>
-
