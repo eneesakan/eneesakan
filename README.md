@@ -1,11 +1,11 @@
-<h1 align = "center">Hi 👋🏻, I'm Enes</h1>
-<h3 align = "center">I'm a Computer Engineer. I'm working on Web Development and UI/UX Design.</h3>
+<h1 align = "left">Hi 👋🏻, I'm Enes</h1>
+<h3 align = "left">I'm a Computer Engineer. I'm working on Web Development and UI/UX Design.</h3>
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
 - 🔭 I'm currently actively working on **JavaScript**
 
-- 🌱 I develop responsive web projects with **CSS** and **JavaScript**
+- 🌱 I develop responsive web projects with **CSS and JavaScript**
 
 - 🌐 Know about my experiences [enesakan.com](https://www.enesakan.com)
 
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7)](https://github-profile-trophy.vercel.app/?username=eneesakan&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="40%">
