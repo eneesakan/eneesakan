@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently actively working on **JavaScript**
 
-- 🌱 I develop responsive web projects with **CSS and JavaScript**
+- 🌱 I develop responsive web projects with **CSS** and **JavaScript**
 
 - 🌐 Know about my experiences [enesakan.com](https://www.enesakan.com)
 
