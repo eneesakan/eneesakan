@@ -38,16 +38,16 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<h3 align="left">Find me on Social Media</h3>
-<p align="left">
+<h3 align="center">Find me on Social Media</h3>
+<p align="center">
 <a target="_blank" href="https://www.instagram.com/eneesakan/"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="Instagram" border="0"></a>
 <a target="_blank" href="https://twitter.com/eneesakan"><img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"></a>
 <a target="_blank" href="https://www.linkedin.com/in/eneesakan/"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
 <a target="_blank" href="https://www.youtube.com/watch?v=RLwjJMI9-TY&list=PLBQ4mRv5PQFPZxRNDgsT_tBPMnlMvhoCb&index=3"><img width="50px" src="https://i.ibb.co/R0f8dFN/Youtube.png" alt="Youtube" border="0"></a>
  </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
