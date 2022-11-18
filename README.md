@@ -26,7 +26,7 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=6&no-frame=true&margin-w=23)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=6&no-frame=true&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="52%">
