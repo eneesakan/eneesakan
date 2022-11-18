@@ -73,4 +73,4 @@
         
 </p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 70%;"></a></p>
