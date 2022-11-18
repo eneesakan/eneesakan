@@ -1,4 +1,8 @@
 <h1 align = "left">Hi 👋🏻, I'm Enes</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&width=435&lines=Computer+Engineer;Front+End+Developer;UI%2FUX" alt="Typing SVG" /></a>
+
+
 <h3 align = "left">I'm a Computer Engineer. I'm working on Web Development and UI/UX Design.</h3>
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
