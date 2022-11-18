@@ -33,7 +33,7 @@
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=chartreuse-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliusHHimel&theme=chartreuse-dark&height=0&layout=compact)
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
