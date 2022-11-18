@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=700&color=55A1F7&center=&vCenter=&width=200&height=37&lines=Computer+Engineer;Front-End+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=700&color=55A1F7&center=&vCenter=&width=200&height=37&lines=Computer+Engineer;Front-End+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
@@ -26,17 +26,13 @@
 <br>
 <br>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="50%">
 </p>
 
-<p align= "right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&theme=chartreuse-dark&layout=compact)
-</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
