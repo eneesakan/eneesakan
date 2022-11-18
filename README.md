@@ -75,12 +75,8 @@
 
 
 
-
-
-
-
-## Spotify Live View
-[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/eneesakan)
-
-
-
+<p align="center"> 
+  Visitor Counter<br>
+  <img src="https://profile-counter.glitch.me/tavignesh/count.svg" /><br>
+  <a href="https://discord.gg/pDzrEyGpxE"><img src="https://discordapp.com/api/guilds/780625655657791518/widget.png?style=banner4"></a>
+</p>
