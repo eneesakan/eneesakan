@@ -1,5 +1,5 @@
 <h1 align = "center">Hi 👋🏻, I'm Enes</h1>
-<h3 align = "left">I'm a Computer Engineer. I'm working on Web Development and UI/UX Design.</h3>
+<h3 align = "center">I'm a Computer Engineer. I'm working on Web Development and UI/UX Design.</h3>
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
