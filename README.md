@@ -26,6 +26,11 @@
 <br>
 <br>
 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eneesakan&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="eneesakan" width="37%">
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=7&no-frame=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
