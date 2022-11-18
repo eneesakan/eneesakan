@@ -31,7 +31,7 @@
 
 
 <p>
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="40%">
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eneesakan&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="eneesakan" width="37%">
 </p>
