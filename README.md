@@ -31,7 +31,7 @@
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="52%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&theme=chartreuse-dark&layout=compact&width=52%)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&theme=chartreuse-dark&layout=compact&width=100%)
 
 </p>
 
