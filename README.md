@@ -70,9 +70,4 @@
 
 ![github-contribution-grid-snake (2)](https://user-images.githubusercontent.com/84860191/202824206-fa2d985c-1c69-472e-acd9-24780422db8e.svg)
 
-<p align="center"> 
-  Visitor Counter<br>
-  <img src="https://profile-counter.glitch.me/eneesakan/count.svg" /><br>
-</p>
-
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 100%;"></a></p>
