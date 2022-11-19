@@ -30,8 +30,8 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eneesakan&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eneesakan&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true" height="192px"/></a>
 
 
 
