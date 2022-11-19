@@ -1,4 +1,4 @@
-<h1 align="center" color=55A1F7 > 
+<h1 align="center" color=#55A1F7 > 
   Hi
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
          alt="Waving hand animated gif"         
