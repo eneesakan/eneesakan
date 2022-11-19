@@ -68,7 +68,7 @@
         
 </p>
 
-![github-contribution-grid-snake (1)](https://user-images.githubusercontent.com/84860191/202823786-8df0f9a2-61c6-4c21-8438-727867ab325e.svg)
+![github-contribution-grid-snake (2)](https://user-images.githubusercontent.com/84860191/202824206-fa2d985c-1c69-472e-acd9-24780422db8e.svg)
 
 <p align="center"> 
   Visitor Counter<br>
