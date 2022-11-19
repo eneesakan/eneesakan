@@ -74,6 +74,8 @@
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 100%;"></a></p>
 
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/84860191/202822874-8282d260-fc1a-48f6-a34d-6ff6f1a4dd58.svg)
+
 
 <p align="center"> 
   Visitor Counter<br>
