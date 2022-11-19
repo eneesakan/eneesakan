@@ -28,6 +28,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eneesakan&theme=darkhub&column=6&no-frame=true&margin-w=24)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eneesakan&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+
+
+
+
+
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eneesakan&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="eneesakan" width="52%">
 
