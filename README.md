@@ -74,4 +74,4 @@
 
 ![github-contribution-grid-snake (2)](https://user-images.githubusercontent.com/84860191/202824206-fa2d985c-1c69-472e-acd9-24780422db8e.svg)
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="width: 50%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="width: 70%;"></a></p>
