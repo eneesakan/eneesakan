@@ -1,9 +1,9 @@
 <p align="center"
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=28&duration=1&pause=10000&color=083AA9&background=FFFFFF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&width=220&height=45&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Enes" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&size=28&duration=1&pause=10000&color=6998AB&background=FFFFFF00&center=do%C4%9Fru&vCenter=do%C4%9Fru&width=220&height=45&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Enes" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&duration=1200&pause=1000&color=0002A1&center=&vCenter=&width=235&height=37&lines=Computer+Engineer;Front-End+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&duration=1200&pause=1000&color=406882&center=&vCenter=&width=235&height=37&lines=Computer+Engineer;Front-End+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
