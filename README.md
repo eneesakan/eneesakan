@@ -9,7 +9,7 @@
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
-- 🔭 I'm currently actively working on **JavaScript**
+▶ 🔭 I'm currently actively working on **JavaScript**
 
 - 🌱 I develop responsive web projects with **CSS and JavaScript**
 
