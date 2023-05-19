@@ -9,13 +9,13 @@
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
-- 🌱 I develop responsive web projects with **Bootstrap and JavaScript**
+- 🌱 I develop responsive projects with and **JavaScript**, **React** and **Bootstrap**
+
+- 💻 I am currently interning at **[Jotform](https://www.jotform.com/) as UI Developer** 
 
 - 🌐 Know about my experiences **[enesakan.com](https://www.enesakan.com)**
 
-- ❄️ I'm currently learning **React**
-
-- 📫 How to reach me: **enesakan2014@gmail.com**
+- 📫 How to reach me: **info@enesakan.com**
 
 - ⚡ Sad but true **ValarMorghulis**
 
