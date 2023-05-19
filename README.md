@@ -9,7 +9,7 @@
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
-- 🌱 I develop responsive projects with and **JavaScript**, **React** and **Bootstrap**
+- 🌱 I develop responsive projects with **JavaScript**, **React** and **Bootstrap**
 
 - 💻 I am currently interning at **[Jotform](https://www.jotform.com/) as UI Developer** 
 
