@@ -25,8 +25,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true" height="197px" align = "right"/></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
