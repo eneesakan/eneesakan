@@ -9,9 +9,7 @@
 <img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
-- 🌱 I develop responsive projects with **JavaScript** and **React**
-
-- 💻 I am currently interning at **[Jotform](https://www.jotform.com/) as UI Developer** 
+- 💻 I develop responsive projects with **JavaScript** and **React**
 
 - 🌐 Know about my experiences **[enesakan.com](https://www.enesakan.com)**
 
