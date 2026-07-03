@@ -24,8 +24,4 @@
 <br>
 <br>
 
-![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+![Kullandığım Diller](https://raw.githubusercontent.com/eneesakan/jebrainN/generated/languages.svg)
