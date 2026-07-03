@@ -18,10 +18,3 @@
 - 🌐 [enesakan.com](https://enesakan.com/) | ✉️ info@enesakan.com
 
 - ⚡ Sad but true **ValarMorghulis**
-
-<br>
-<br>
-<br>
-<br>
-
-![github-contribution-grid-snake (2)](https://user-images.githubusercontent.com/84860191/202824206-fa2d985c-1c69-472e-acd9-24780422db8e.svg)
