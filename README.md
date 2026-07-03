@@ -18,3 +18,14 @@
 - 🌐 [enesakan.com](https://enesakan.com/) | ✉️ info@enesakan.com
 
 - ⚡ Sad but true **ValarMorghulis**
+
+<br>
+<br>
+<br>
+<br>
+
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
