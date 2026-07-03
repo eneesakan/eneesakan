@@ -9,11 +9,13 @@
 <img align = "right" alt ="Coding" width="400" margin-right="-15" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <br>
 
-- 💻 I develop responsive projects with **JavaScript** and **React**
+- 💻 Engineering the backend, designing the frontend, scaling the vision.
 
-- 🌐 Know about my experiences **[enesakan.com](https://www.enesakan.com)**
+- 🌐 Building autonomous platforms and modern SaaS solutions.
 
-- 📫 How to reach me: **info@enesakan.com**
+- 📫 Driven by clean code and exceptional aesthetics.
+
+- 🌐 enesakan.com | ✉️ info@enesakan.com
 
 - ⚡ Sad but true **ValarMorghulis**
 
