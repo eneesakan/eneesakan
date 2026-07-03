@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=25&duration=1500&pause=2000&color=CD1818&center=&vCenter=&width=310&height=37&lines=Computer+Engineer;Front-End+Developer;UI%2FUX+Developer" alt="Typing SVG" /></a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=25&duration=1500&pause=2000&color=CD1818&center=&vCenter=&width=310&height=37&lines=Computer+Engineer;Software+Developer;UI%2FUX+Developer" alt="Typing SVG" /></a>
 </p>
 
 <img align = "right" alt ="Coding" width="400" margin-right="-15" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
@@ -24,9 +24,6 @@
 <br>
 <br>
 <br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneesakan&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true" height="197px" align = "left"/></a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eneesakan&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 <h3 align="center">Find me on Social Media</h3>
 <p align="center">
