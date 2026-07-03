@@ -19,6 +19,7 @@
 
 - ⚡ Sad but true **ValarMorghulis**
 
-
+<br>
+<br>
 
 ![Kullandığım Diller](https://raw.githubusercontent.com/eneesakan/jebrainN/generated/languages.svg#gh-dark-mode-only)
