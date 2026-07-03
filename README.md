@@ -6,7 +6,7 @@
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=20&duration=1500&pause=2000&color=CD1818&center=&vCenter=&width=310&height=37&lines=Computer+Engineer;Software+Developer;UI%2FUX+Developer" alt="Typing SVG" /></a>
 </p>
 
-<img align = "right" alt ="Coding" width="320" margin-right="-15" src="https://pin.it/4jk7lqQ0W">
+<img align = "right" alt ="Coding" width="320" margin-right="-15" src="https://i.pinimg.com/originals/85/26/7f/85267f44d31a678a04f00b276f6287ee.gif">
 <br>
 
 - 💻 Engineering the backend, designing the frontend, scaling the vision.
