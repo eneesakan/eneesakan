@@ -1,6 +1,6 @@
 <!--
   ══════════════════════════════════════════════════════════════
-  assets/  →  header · whoami · languages · portfolio · email · linkedin · x · instagram  (.svg)
+  assets/  →  header · whoami · languages · footer · portfolio · email · linkedin · x · instagram  (.svg)
   ══════════════════════════════════════════════════════════════
 -->
 
@@ -30,9 +30,9 @@
 </p>
 
 <p align="center">
-  <sub><code>enesakan.com</code> &nbsp;·&nbsp; <code>info@enesakan.com</code> &nbsp;·&nbsp; <code>Turkey</code></sub>
+  <img src="./assets/footer.svg" width="100%" alt="enesakan.com · info@enesakan.com · Turkey" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eneesakan&style=flat-square&color=161B22&labelColor=0D1117&label=VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=eneesakan&style=flat-square&color=161B22&label=PROFILE+VIEWS&abbreviated=true" alt="profile views" />
 </p>
