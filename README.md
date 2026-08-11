@@ -24,9 +24,9 @@
 
 <br>
 
-<img align="right" width="42%" src="https://raw.githubusercontent.com/eneesakan/jebrainN/generated/languages.svg" alt="Languages Used" />
-
 ### `~/whoami`
+
+<img align="right" width="43%" src="./assets/languages.svg" alt="Languages used by file size" />
 
 `01` &nbsp;&nbsp;Engineering resilient backends and interfaces people actually enjoy using.
 
