@@ -1,4 +1,14 @@
 <!--
+  ══════════════════════════════════════════════════════════════════════════
+  © 2026 Enes Akan · enesakan.com
+  Original design. Licensed under CC BY-NC-ND 4.0 — see LICENSE.
+  Attribution required · No commercial use · No derivatives.
+  Every file in assets/ carries embedded copyright metadata + a unique
+  fingerprint (EA-…). Source of truth: github.com/eneesakan/eneesakan
+  ══════════════════════════════════════════════════════════════════════════
+-->
+
+<!--
   ══════════════════════════════════════════════════════════════
   assets/  →  header · whoami · languages · footer · portfolio · email · linkedin · x · instagram  (.svg)
   ══════════════════════════════════════════════════════════════
@@ -35,4 +45,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eneesakan&style=flat-square&color=161B22&label=PROFILE+VIEWS&abbreviated=true" alt="profile views" />
+</p>
+
+<p align="center">
+  <sub><a href="./LICENSE">© 2026 Enes Akan · CC BY-NC-ND 4.0</a></sub>
 </p>

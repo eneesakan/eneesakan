@@ -1,0 +1,63 @@
+Copyright (c) 2026 Enes Akan — https://enesakan.com
+
+This repository contains the source of the GitHub profile README for
+github.com/eneesakan, including original visual design assets located in
+`assets/` (header.svg, whoami.svg, languages.svg, footer.svg and the link
+chips). These assets are original works authored by Enes Akan.
+
+────────────────────────────────────────────────────────────────────────
+LICENSE — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International (CC BY-NC-ND 4.0)
+Full legal code: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SPDX-License-Identifier: CC-BY-NC-ND-4.0
+────────────────────────────────────────────────────────────────────────
+
+YOU ARE FREE TO:
+
+  Share — copy and redistribute the material in any medium or format,
+  provided you follow the terms below.
+
+UNDER THE FOLLOWING TERMS:
+
+  Attribution — You must give appropriate credit to Enes Akan, provide a
+  link to https://github.com/eneesakan/eneesakan and to the license, and
+  indicate if changes were made.
+
+  NonCommercial — You may not use the material for commercial purposes.
+
+  NoDerivatives — If you remix, transform, or build upon the material,
+  you may not distribute the modified material.
+
+  No additional restrictions — You may not apply legal terms or
+  technological measures that legally restrict others from doing anything
+  the license permits.
+
+NOT PERMITTED WITHOUT WRITTEN PERMISSION:
+
+  • Republishing these assets as your own profile, portfolio or template.
+  • Removing or altering the embedded copyright metadata, fingerprint
+    identifiers or attribution comments contained in the SVG files.
+  • Redistribution as part of a paid or ad-supported product, template
+    marketplace, or "awesome/readme template" collection.
+
+PROVENANCE:
+
+  Every SVG file in `assets/` carries an embedded <metadata> block with a
+  Dublin Core / Creative Commons rights statement and a unique fingerprint
+  identifier (prefix `EA-`). The commit history of this repository serves
+  as the authoritative record of authorship and publication date.
+
+ENFORCEMENT:
+
+  Unauthorized redistribution may be reported to GitHub under the DMCA
+  process (https://docs.github.com/site-policy/content-removal-policies).
+
+CONTACT:
+
+  Permission requests: info@enesakan.com
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE MATERIAL OR
+THE USE OR OTHER DEALINGS IN THE MATERIAL.
