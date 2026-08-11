@@ -1,6 +1,6 @@
 <!--
   ══════════════════════════════════════════════════════════════
-  assets/  →  header.svg · portfolio.svg · email.svg · linkedin.svg · x.svg · instagram.svg
+  assets/  →  header · whoami · languages · portfolio · email · linkedin · x · instagram  (.svg)
   ══════════════════════════════════════════════════════════════
 -->
 
@@ -24,21 +24,10 @@
 
 <br>
 
-### `~/whoami`
-
-<img align="right" width="43%" src="./assets/languages.svg" alt="Languages used by file size" />
-
-`01` &nbsp;&nbsp;Engineering resilient backends and interfaces people actually enjoy using.
-
-`02` &nbsp;&nbsp;Building autonomous platforms and production-grade SaaS — zero to scale.
-
-`03` &nbsp;&nbsp;Obsessed with clean architecture, performance budgets and pixel-level detail.
-
-`04` &nbsp;&nbsp;Turning ambiguous ideas into shipped products, and products into systems.
-
-`05` &nbsp;&nbsp;Sad but true — **_Valar Morghulis_**
-
-<br clear="right" />
+<p align="center">
+  <img src="./assets/whoami.svg" width="55%" alt="whoami" />
+  <img src="./assets/languages.svg" width="42%" alt="Languages used by file size" />
+</p>
 
 <p align="center">
   <sub><code>enesakan.com</code> &nbsp;·&nbsp; <code>info@enesakan.com</code> &nbsp;·&nbsp; <code>Turkey</code></sub>
