@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://enesakan.com">
-    <img src="./assets/header.svg" width="100%" alt="enes.develop{} — Algorithmic Limerence" />
+    <img src="./assets/header.svg" width="100%" alt="enes.develop() — Algorithmic Limerence" />
   </a>
 </p>
 
