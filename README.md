@@ -1,56 +1,49 @@
 <!--
-  ─────────────────────────────────────────────────────────────
-  Header is a custom animated SVG → commit it to  assets/header.svg
-  ─────────────────────────────────────────────────────────────
+  ══════════════════════════════════════════════════════════════
+  assets/  →  header.svg · portfolio.svg · email.svg · linkedin.svg · x.svg · instagram.svg
+  ══════════════════════════════════════════════════════════════
 -->
 
 <p align="center">
   <a href="https://enesakan.com">
-    <img src="./assets/header.svg" width="100%" alt="Enes Akan — Software Engineer" />
+    <img src="./assets/header.svg" width="100%" alt="enes.develop() — Algorithmic Limerence" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://enesakan.com"><img src="https://img.shields.io/badge/PORTFOLIO-%20-E6EDF3?style=for-the-badge&labelColor=0D1117&color=161B22" /></a>
+  <a href="https://enesakan.com"><img src="./assets/portfolio.svg" height="40" alt="Portfolio" /></a>
   &nbsp;
-  <a href="mailto:info@enesakan.com"><img src="https://img.shields.io/badge/EMAIL-%20-E6EDF3?style=for-the-badge&labelColor=0D1117&color=161B22" /></a>
+  <a href="mailto:info@enesakan.com"><img src="./assets/email.svg" height="40" alt="Email" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/eneesakan"><img src="https://img.shields.io/badge/LINKEDIN-%20-E6EDF3?style=for-the-badge&labelColor=0D1117&color=161B22" /></a>
+  <a href="https://www.linkedin.com/in/eneesakan"><img src="./assets/linkedin.svg" height="40" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://x.com/eneesakan"><img src="https://img.shields.io/badge/X-%20-E6EDF3?style=for-the-badge&labelColor=0D1117&color=161B22" /></a>
+  <a href="https://x.com/eneesakan"><img src="./assets/x.svg" height="40" alt="X" /></a>
+  &nbsp;
+  <a href="https://instagram.com/eneesakan"><img src="./assets/instagram.svg" height="40" alt="Instagram" /></a>
 </p>
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="57%">
+<img align="right" width="42%" src="https://raw.githubusercontent.com/eneesakan/jebrainN/generated/languages.svg" alt="Languages Used" />
 
-<h3><code>~/whoami</code></h3>
+### `~/whoami`
 
-<sub>`01`</sub> &nbsp; Engineering resilient backends and interfaces people actually enjoy using.
+`01` &nbsp;&nbsp;Engineering resilient backends and interfaces people actually enjoy using.
 
-<sub>`02`</sub> &nbsp; Building autonomous platforms and production-grade SaaS — zero to scale.
+`02` &nbsp;&nbsp;Building autonomous platforms and production-grade SaaS — zero to scale.
 
-<sub>`03`</sub> &nbsp; Obsessed with clean architecture, performance budgets and pixel-level detail.
+`03` &nbsp;&nbsp;Obsessed with clean architecture, performance budgets and pixel-level detail.
 
-<sub>`04`</sub> &nbsp; Turning ambiguous ideas into shipped products, and products into systems.
+`04` &nbsp;&nbsp;Turning ambiguous ideas into shipped products, and products into systems.
 
-<sub>`05`</sub> &nbsp; Sad but true — **_Valar Morghulis_**
+`05` &nbsp;&nbsp;Sad but true — **_Valar Morghulis_**
 
-<br>
-
-<sub>`enesakan.com` &nbsp;·&nbsp; `info@enesakan.com` &nbsp;·&nbsp; Turkey</sub>
-
-</td>
-<td valign="top" width="43%">
-
-<img width="100%" src="https://raw.githubusercontent.com/eneesakan/jebrainN/generated/languages.svg" alt="Languages Used" />
-
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eneesakan&style=flat-square&color=161B22&label=VIEWS" />
+  <sub><code>enesakan.com</code> &nbsp;·&nbsp; <code>info@enesakan.com</code> &nbsp;·&nbsp; <code>Turkey</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eneesakan&style=flat-square&color=161B22&labelColor=0D1117&label=VIEWS" alt="views" />
 </p>

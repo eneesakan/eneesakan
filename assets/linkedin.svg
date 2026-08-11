@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148 46" width="148" height="46" fill="none" role="img" aria-label="LINKEDIN">
+  <defs><linearGradient id="s" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".6"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .sw{animation:sw 4.5s ease-in-out infinite}
+    @keyframes sw{0%{transform:translateX(-148px);opacity:0}15%{opacity:1}45%{transform:translateX(148px);opacity:0}100%{transform:translateX(148px);opacity:0}}
+  </style>
+  <rect x=".7" y=".7" width="146.6" height="44.6" rx="9" fill="#0D1117" stroke="#21262D" stroke-width="1.4"/>
+  <rect x=".7" y=".7" width="146.6" height="44.6" rx="9" fill="#fff" fill-opacity=".018"/>
+  <g transform="translate(20,14)"><g fill="#E6EDF3"><rect x="1" y="6.4" width="3" height="10.6" rx=".6"/><circle cx="2.5" cy="2.6" r="2"/><path d="M6.4 6.4h2.9v1.5c.6-1.1 1.9-1.8 3.4-1.8 2.6 0 4.3 1.6 4.3 4.6V17h-3v-5.6c0-1.6-.8-2.5-2.1-2.5-1.3 0-2.4.9-2.4 2.6V17h-3z"/></g></g>
+  <g fill="#E6EDF3"><path transform="translate(52.00,27.5) scale(0.01100,-0.01100)" d="M109 0V730H217V99H536V0Z"/><path transform="translate(62.00,27.5) scale(0.01100,-0.01100)" d="M98 0V96H245V634H98V730H502V634H355V96H502V0Z"/><path transform="translate(72.00,27.5) scale(0.01100,-0.01100)" d="M81 0V730H217L430 123Q428 152 425.0 192.0Q422 232 420.5 275.0Q419 318 419 353V730H519V0H383L171 607Q173 581 175.5 542.0Q178 503 179.5 461.0Q181 419 181 383V0Z"/><path transform="translate(82.00,27.5) scale(0.01100,-0.01100)" d="M84 0V730H192V426H289L438 730H556L384 380L564 0H443L287 329H192V0Z"/><path transform="translate(92.00,27.5) scale(0.01100,-0.01100)" d="M94 0V730H523V634H200V427H488V332H200V96H523V0Z"/><path transform="translate(102.00,27.5) scale(0.01100,-0.01100)" d="M83 0V730H287Q359 730 412.0 702.5Q465 675 494.5 625.0Q524 575 524 507V224Q524 157 494.5 106.0Q465 55 412.0 27.5Q359 0 287 0ZM191 98H287Q347 98 381.5 131.5Q416 165 416 224V507Q416 565 381.5 598.5Q347 632 287 632H191Z"/><path transform="translate(112.00,27.5) scale(0.01100,-0.01100)" d="M98 0V96H245V634H98V730H502V634H355V96H502V0Z"/><path transform="translate(122.00,27.5) scale(0.01100,-0.01100)" d="M81 0V730H217L430 123Q428 152 425.0 192.0Q422 232 420.5 275.0Q419 318 419 353V730H519V0H383L171 607Q173 581 175.5 542.0Q178 503 179.5 461.0Q181 419 181 383V0Z"/></g>
+  <g clip-path="inset(0 round 9px)"><rect class="sw" x="0" y="0" width="74" height="1.6" fill="url(#s)"/></g>
+</svg>
